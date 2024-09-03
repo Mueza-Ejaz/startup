@@ -1,0 +1,48 @@
+.form-style{
+    font-size: 25px;
+
+}
+
+.form-style input{
+    height: 40px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+}
+
+.form-style label h3{
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+.form-style form{
+    height: 2px;
+}
+
+.form-style button{
+    font-size: 30px;
+}
+
+.form-style button:hover{
+    background-color: rgb(240, 240, 23);
+}
+hr{
+    border-width: 4px;
+    border-color: white;
+    margin-top: 2%;
+}
+
+.link-style{
+    background-color: darkolivegreen;
+    box-sizing: 50px;
+}
+
+.link-style a{
+    font-size: 50px;
+    color: white
+}
+
+.link-style a:hover{
+    background-color: rgb(9, 136, 136);
+    
+}
+

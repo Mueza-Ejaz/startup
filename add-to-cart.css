@@ -1,0 +1,39 @@
+.shoes-video{
+    text-align: center;
+    margin-top: 4%;
+}
+
+body{
+    background-color: #b1bfcc;
+}
+
+h2{
+   text-align: center;
+   font-size: 40px;
+}
+
+.product-purchasing{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 580px;
+    border-radius: 20px;
+    
+}
+
+.prevoius-page{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    padding: 7px;
+    margin-left: 600px;
+    border-radius: 15px;
+}
+
+.product-purchasing:hover{
+    background-color: darkgoldenrod;
+}
+
+.prevoius-page:hover{
+    background-color: darkgoldenrod;
+}
